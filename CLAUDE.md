@@ -2,6 +2,10 @@
 
 A native macOS application built with SwiftUI.
 
+## Agent Instructions
+
+All AI coding agents working on this repository must read and follow `AGENTS.md` before planning or modifying code. `AGENTS.md` is authoritative for project-wide architectural guardrails, including the SwiftUI and AppKit decision policy.
+
 ## Project Overview
 
 - **Language**: Swift 5.0
